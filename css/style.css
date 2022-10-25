@@ -1,0 +1,10 @@
+.container {
+	width: 1170px;
+	margin: 0 auto;
+	background-color: lightpink;
+}
+
+.mybox {
+	background-color: lightpink;
+	height: 500px;
+}
